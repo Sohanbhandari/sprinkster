@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1fhvNLDgSll70cay9MhLL9B
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# AI-ass-repos
+INSPIRED.. AI assisted repos to make like blueprint of sites through imagination and some clones of sites.(mess actually)
